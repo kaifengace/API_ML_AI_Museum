@@ -117,14 +117,19 @@
 ### 一、产品架构
 ![产品架构](https://github.com/kaifengace/API_ML_AI_museum/raw/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%9E%B6%E6%9E%84.PNG)
 
+
 ### 二、产品流程
 ![产品流程](https://github.com/kaifengace/API_ML_AI_museum/raw/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%B5%81%E7%A8%8B.PNG)
 
-
-## 交互及界面设计
-
-## 信息设计
 ## 原型文档
+##### [Axure原型文档交互展示](http://hukaif.gitee.io/api_ml_ai/)
+
+
+
+##### [Axure原型下载地址](gitee.com/hukaif/API_ML_AI)
+
+![产品交互及设计低保真原型](https://gitee.com/hukaif/API_ML_AI/raw/master/%E9%83%A8%E5%88%86%E5%8E%9F%E5%9E%8B%E5%9B%BE.PNG)
+
 
 #  API产品使用关键AI或机器学习之API的输出入展示
 
