@@ -134,7 +134,7 @@
 
 
 
-##### [Axure原型下载地址](gitee.com/hukaif/API_ML_AI)
+##### [Axure原型下载地址](https://github.com/kaifengace/API_ML_AI_Museum)
 
 ![产品交互及设计低保真原型](https://gitee.com/hukaif/API_ML_AI/raw/master/%E9%83%A8%E5%88%86%E5%8E%9F%E5%9E%8B%E5%9B%BE.PNG)
 
