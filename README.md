@@ -130,7 +130,7 @@
 ![产品流程](https://images.gitee.com/uploads/images/2020/0104/154211_689a8e9c_2350059.png)
 
 ## :seedling: 原型文档
-##### [Axure原型文档交互展示](http://hukaif.gitee.io/api_ml_ai/)
+##### [Axure原型文档交互展示](http://hukaif.gitee.io/api_ml_ai_museum)
 
 
 
